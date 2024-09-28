@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/Objects-normal/arm64/Healthy-master.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/Objects-normal/arm64/Healthy-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/Objects-normal/arm64/Healthy-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/Objects-normal/arm64/Healthy-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/Objects-normal/arm64/Healthy-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/Build/Intermediates.noindex/Healthy.build/Debug-iphonesimulator/Healthy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy/ContentView.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy/HealthyApp.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy/ImagePicker.swift" : {
+
+  }
+}

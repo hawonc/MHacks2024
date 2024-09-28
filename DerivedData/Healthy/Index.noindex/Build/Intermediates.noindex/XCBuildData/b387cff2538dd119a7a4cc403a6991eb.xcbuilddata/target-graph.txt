@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'HealthyUITests' in project 'Healthy' (no dependencies)
+Target 'HealthyUITests' in project 'Healthy'
+➜ Explicit dependency on target 'Healthy' in project 'Healthy'
+Target 'HealthyUITests' in project 'Healthy'
+➜ Explicit dependency on target 'Healthy' in project 'Healthy'
+Target 'HealthyTests' in project 'Healthy' (no dependencies)
+Target 'HealthyTests' in project 'Healthy'
+➜ Explicit dependency on target 'Healthy' in project 'Healthy'
+Target 'HealthyTests' in project 'Healthy'
+➜ Explicit dependency on target 'Healthy' in project 'Healthy'
+Target 'Healthy' in project 'Healthy' (no dependencies)
+Target 'Healthy' in project 'Healthy' (no dependencies)

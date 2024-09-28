@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "buildDescriptionID" : "8d6d7cacd1889a08430eb5e1231027ea",
+  "configuredTargets" : [
+    {
+      "guid" : "2b72b17718ff5fd0a9acfa4207d785aba4b671564f489a9d2a255e206e4aae26"
+    }
+  ],
+  "containerPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Products",
+      "derivedDataPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "9A7E7A00-6A66-4A1A-8DE9-EDF953B85D7F",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/Healthy-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/Healthy-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/Healthy-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/Healthy-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy/ContentView.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/Healthy/HealthyApp.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.dia",
+    "index-unit-output-path" : "/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy/DerivedData/Healthy/Build/Intermediates.noindex/Healthy.build/Debug-iphoneos/Healthy.build/Objects-normal/arm64/HealthyApp~partial.swiftmodule"
+  }
+}
